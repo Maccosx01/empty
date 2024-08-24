@@ -1,0 +1,28 @@
+{
+    "client": [],
+    "services": [
+        "seed",
+        "tapswap",
+        "cex",
+        "mozoai",
+        "arena",
+        "cybase",
+        "arix",
+        "onus",
+        "timefarm",
+        "matchquest",
+        "cryptorank",
+        "pocketfi",
+        "gumart",
+        "ocean",
+        "blum",
+        "dogshouse",
+        "threads",
+        "tomarket",
+        "ducks",
+        "moneydogs",
+        "bountybay",
+        "soulclub",
+        "fintopio"
+    ]
+}
